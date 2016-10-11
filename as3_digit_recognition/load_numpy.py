@@ -13,3 +13,4 @@ def getNumpy():
 	print train_y.shape
 	print test_x.shape
 	return train_x,train_y,test_x
+
